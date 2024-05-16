@@ -1,19 +1,19 @@
 header {
-    background-color: indianred;
+    background-color: rgb(255, 181, 85);
     color: white;
     display: flex;
 }
 
 .cabecalho-imagem{
-    width: 100%;
+    width: 40%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin:  20px 0;
+    margin:  25px 0;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 50px;
-    font-size: 30px;
+    font-size: 40px;
 }
