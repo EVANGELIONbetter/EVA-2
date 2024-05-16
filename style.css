@@ -17,3 +17,12 @@ header {
     margin: 0 50px;
     font-size: 40px;
 }
+
+.floppa2{
+    width: 100%;
+}
+
+.titulo{
+    background-image: linear-gradient(255, 181, 85 );
+    color: white;
+}
